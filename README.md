@@ -17,3 +17,37 @@
 | credit_score                   | Credit score of the person                       | Integer     |
 | previous_loan_defaults_on_file | Indicator of previous loan defaults              | Categorical |
 | loan_status (target variable)  | Loan approval status: 1 = approved; 0 = rejected | Integer     |
+
+
+
+Classification Model:
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. XGBoost
+5. SVM
+6. KNN
+7. Naive Bayes
+8. AdaBoost
+9. Gradient Boosting
+10. Neural Network
+
+###Project Type : 
+Take a specific problem, pose it as a machine
+learning problem (classification, regression, clustering, ..),
+train a ML model and study its performance.
+
+###Project implementation would have the following characteristics:
+• Pick the dataset from a good online source.
+• A good study of the characteristics and properties of the
+dataset.
+• A decent amount of introductory data analysis done
+(correlations, label and feature distributions, missing values,
+imbalance, mean/variance of features, etc.)
+• A comprehensive evaluation of different ML algorithms
+(linear models, decision trees, boosted trees and random
+forests, neural networks, etc.)
+• Use of meaningful evaluation metrics
+• An analysis of what works and what does not work
+• Lessons Learnt from the Project and How the project helped
+you.
