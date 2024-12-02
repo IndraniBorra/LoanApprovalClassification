@@ -51,3 +51,16 @@ forests, neural networks, etc.)
 • An analysis of what works and what does not work
 • Lessons Learnt from the Project and How the project helped
 you.
+
+
+Decision Tree:
+- The decision tree algorithm is a supervised learning algorithm that can be used for both classification and regression tasks. It is a tree-like model that makes predictions by recursively partitioning the input space into smaller and smaller regions.
+- Stopping Criteria:
+  - Maximum Depth: The maximum depth of the tree is a stopping criterion that limits the number of splits in the tree. If the tree reaches the maximum depth, it stops growing.
+  - Minimum Samples per Leaf: The minimum number of samples required to form a leaf node is another stopping criterion. If the number of samples in a leaf node falls below this threshold, the tree stops growing.
+  - Minimum Samples per Split: The minimum number of samples required to split a node is another stopping criterion. If the number of samples in a node falls below this threshold, the tree stops growing.
+  - Impurity Threshold: The impurity threshold is a stopping criterion that specifies the minimum impurity required to split a node. If the impurity of a node falls below this threshold, the tree stops growing.
+  - Minimum Information Gain: The minimum information gain required to split a node is a stopping criterion. If the information gain from splitting a node is below this threshold, the tree stops growing.
+  - Maximum Number of Leaves: The maximum number of leaves in the tree is a stopping criterion. If the number of leaves exceeds this threshold, the tree stops growing.
+  
+
